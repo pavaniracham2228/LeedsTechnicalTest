@@ -1,0 +1,92 @@
+{
+    "requests": [
+        {
+            "id": 1,
+            "seats": [
+                {
+                    "seat": 1,
+                    "type": "wheelchair"
+                },
+                {
+                    "seat": 1,
+                    "type": "companion"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seats": [
+                {
+                    "seat": 2,
+                    "type": "adult"
+                },
+                {
+                    "seat": 1,
+                    "type": "child"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seats": [
+                {
+                    "seat": 6,
+                    "type": "adult"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seats": [
+                {
+                    "seat": 7,
+                    "type": "child"
+                },
+                {
+                    "seat": 1,
+                    "type": "adult"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seats": [
+                {
+                    "seat": 2,
+                    "type": "adult"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seats": [
+                {
+                    "seat": 3,
+                    "type": "adult"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seats": [
+                {
+                    "seat": 4,
+                    "type": "adult"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seats": [
+                {
+                    "seat": 1,
+                    "type": "wheelchair"
+                },
+                {
+                    "seat": 2,
+                    "type": "companion"
+                }
+            ]
+        }
+    ]
+}
